@@ -54,16 +54,19 @@ These results demonstrate both the strengths and limitations of unsupervised clu
 
 ---
 
+---
+
 ## Screenshots
 
 ### t-SNE Cluster Visualization
-![t-SNE Visualization](Screenshots/tsne_plot.png)
+![t-SNE Visualization](./Screenshots/tsne_plot.png)
 
 ### Cluster Statistics and Metrics
-![Cluster Statistics](Screenshots/cluster_stats.png)
+![Cluster Statistics](./Screenshots/cluster_stats.png)
 
 ### Sample Misclassified Digits
-![Misclassified Digits](Screenshots/misclassified.png)
+![Misclassified Digits](./Screenshots/misclassified.png)
+
 
 
 ## How to Run the Project
