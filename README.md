@@ -57,13 +57,13 @@ These results demonstrate both the strengths and limitations of unsupervised clu
 ## Screenshots
 
 ### t-SNE Cluster Visualization
-![t-SNE Visualization](screenshots/tsne_plot.png)
+![t-SNE Visualization](Screenshots/tsne_plot.png)
 
 ### Cluster Statistics and Metrics
-![Cluster Statistics](screenshots/cluster_stats.png)
+![Cluster Statistics](Screenshots/cluster_stats.png)
 
 ### Sample Misclassified Digits
-![Misclassified Digits](screenshots/misclassified.png)
+![Misclassified Digits](Screenshots/misclassified.png)
 
 
 ## How to Run the Project
@@ -106,4 +106,4 @@ mnist_tsne_full/
 ---
 
 ## Time Spent
-Approximately 6–7 hours, including experimentation, debugging, and visualization improvements.
+Approximately 5-6 hours, including experimentation, debugging, and visualization improvements.
